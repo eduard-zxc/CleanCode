@@ -1,0 +1,14 @@
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/bin/Debug/net9.0/CleanCode
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/bin/Debug/net9.0/CleanCode.deps.json
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/bin/Debug/net9.0/CleanCode.runtimeconfig.json
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/bin/Debug/net9.0/CleanCode.dll
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/bin/Debug/net9.0/CleanCode.pdb
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/CleanCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/CleanCode.AssemblyInfoInputs.cache
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/CleanCode.AssemblyInfo.cs
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/CleanCode.csproj.CoreCompileInputs.cache
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/CleanCode.dll
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/refint/CleanCode.dll
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/CleanCode.pdb
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/CleanCode.genruntimeconfig.cache
+/Users/eduard/Wokspace/Amdaris/CleanCode/CleanCode/obj/Debug/net9.0/ref/CleanCode.dll
